@@ -126,6 +126,7 @@
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: space-between;
+  gap: 24px;
 }
 .lots__card-list-item {
   box-sizing: border-box; /* Ненужное свойство */
@@ -213,6 +214,7 @@
   grid-template-columns: 1fr auto 1fr;
   align-items: start;
   justify-items: center;
+  margin-bottom: 82px;
 }
 .footer__address {
   max-width: 265px;
